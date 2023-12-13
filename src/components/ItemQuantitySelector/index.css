@@ -1,0 +1,52 @@
+.boton{
+    margin: 12px;
+    border-radius: 5px;
+    background-color: gray;
+    border: none;
+    color: white;
+    width: 50px;
+}
+
+.boton:hover{
+    background-color:  rgb(189, 187, 187);
+}
+
+.input{
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(189, 187, 187);
+    color: white;
+    width: 130px;
+    padding-left: 60px;
+    height: 35px;
+    margin-top: 10px;
+}
+
+
+.link{
+    text-decoration: none;
+    margin: 5px;
+    margin-top: 8px;
+    color: black;
+}
+
+.boto{
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: gray;
+    color: white;
+    width: 275px;
+}
+
+
+.boto:hover{
+    background-color:  rgb(189, 187, 187);
+}
+
+
+.titulo{
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+}
